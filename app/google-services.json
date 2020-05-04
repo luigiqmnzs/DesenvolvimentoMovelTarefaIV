@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918992670808",
+    "firebase_url": "https://tarefa4-a75d7.firebaseio.com",
+    "project_id": "tarefa4-a75d7",
+    "storage_bucket": "tarefa4-a75d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918992670808:android:91521bbe410d0108ee3a2d",
+        "android_client_info": {
+          "package_name": "com.example.tarefaiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918992670808-hikgimck8k0t57s3342gdhqvjnp7efoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarefaiv",
+            "certificate_hash": "9d2045d03c8eab33c9091804e671cedc35f81fac"
+          }
+        },
+        {
+          "client_id": "918992670808-lblp3thqhckiddio47fds2ob5cqfudlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcppW3KxnPWsjLw9bxOEMvaJJLsD7-wH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918992670808-lblp3thqhckiddio47fds2ob5cqfudlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
